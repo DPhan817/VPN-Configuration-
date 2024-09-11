@@ -1,4 +1,4 @@
-# VPN-Configuration-<p align="center">
+# VPN-Configuration<p align="center">
 <img src="https://i.imgur.com/QurLqjG.png" height="40%" width="60%"/>
 </p>
 
