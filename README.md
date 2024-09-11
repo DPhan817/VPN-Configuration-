@@ -21,10 +21,10 @@ In this project, the impact of a virtual private network (VPN) on IP address wil
 
 -	Create a Windows 10 virtual machine in Azure
 -	Remote Desktop into the virtual machine
--	Use whatismyipaddress.com to find the IP address and location for the VM
--	Download the free version of ProtonVPN (create an account if there is no preexisting account)
+-	Use whatismyipaddress.com to find the IP address and location for the virtual machine
+-	Download the free version of ProtonVPN 
 -	In ProtonVPN, connect to a server in another country
--	Use whatismyipaddress.com to find the new IP address and location for the VM
+-	Use whatismyipaddress.com to find the new IP address and location for the virtual machine
 -	Browse a webpage to see if there are any changes to the URL or language
 -	Delete Resource Groups in Azure
 
@@ -55,7 +55,7 @@ After creating your account, go to the Azure portal by typing in portal.azure.co
 <img src="https://i.imgur.com/VB0la1r.jpg" height="70%" width="70%"/>
 </p>
 <p>  
-Open another web browser and type in the search bar "whatismyipaddress.com". Take a note of the IP address displayed. (Note: it's important not to share or  disclose your public IP address with just anyone because it can give away your private location and worst give a malicious actor a target to use malicious techniques against your network).
+Open another web browser and type in the search bar "whatismyipaddress.com". Take a note of the IP address displayed. (Note: it's important not to share or disclose your public IP address with just anyone because it can expose your location, gain access to your network and devices, as well as make you vulnerable to hackers.
 </p>
 <br />
 
@@ -165,7 +165,7 @@ Choose any one of the available VPN servers to connect to and allow the connecti
 Once the connection is completed, refresh the dashboard interface to confirm an established connection, open up a web browser and go to "whatismyipaddress.com" and you'll see that the public ip address of the VM now displays region in which the VPN server is located in. 
 </p>
   
-In Conclusion: Simply creating a virtual machine similarly acts like a VPN by displaying an IP address where the VM's server is located when choosing the region. The main difference is that a VPN will provide content in the region's language and relevant information exclusive to the region. To verify this simply open up any popular website in a browser and review the display of the language and information on the webpage and compare it to the language and content when viewing that same webpage on your actual PC. 
+In conclusion, a VPN (Virtual Private Network) encrypts your internet connection, hides your IP address, and provides privacy and security by routing your traffic through a remote server. This helps protect your data and anonymity online. While creating a VM similarly acts like a VPN by displaying an IP address where the VM's server is located at when choosing the region. The IP address is getting masked, you can simply open up a web browser and notice that your language has changed into the location servers language. For example- if you were in the Netherlands and searched for yahoo.com. You would see that the webpage is in Dutch. 
 . 
 </p>
 <br />
