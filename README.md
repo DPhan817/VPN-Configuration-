@@ -166,6 +166,5 @@ Once the connection is completed, refresh the dashboard interface to confirm an 
 </p>
   
 In conclusion, a VPN (Virtual Private Network) encrypts your internet connection, hides your IP address, and provides privacy and security by routing your traffic through a remote server. This helps protect your data and anonymity online. While creating a VM similarly acts like a VPN by displaying an IP address where the VM's server is located at when choosing the region. The IP address is getting masked, you can simply open up a web browser and notice that your language has changed into the location servers language. For example- if you were in the Netherlands and searched for yahoo.com. You would see that the webpage is in Dutch. 
-. 
 </p>
 <br />
