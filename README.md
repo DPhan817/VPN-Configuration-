@@ -32,7 +32,7 @@ In this project, the impact of a virtual private network (VPN) on IP address wil
 <h2>Summary</h2>
 
 <p>
-<img src="https://i.imgur.com/8KmJIqO.png" height="70%" width="70%"/> 
+<img src="https://imgur.com/ZwnmwMj.png" height="70%" width="70%"/> 
 </p>
 <p>
 On your pc type in "free azure account". Click on the link which should say "Create Your Azure Free Account Today". In the webpage, click on the "start free" box. 
