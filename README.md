@@ -1,5 +1,5 @@
 # VPN-Configuration<p align="center">
-<img src="https://i.imgur.com/QurLqjG.png" height="40%" width="60%"/>
+<img src="https://imgur.com/QYDPM41.png" height="40%" width="60%"/>
 </p>
 
 <h1>Observing the Effect of a VPN on IP Addressing</h1>
