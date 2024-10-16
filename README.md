@@ -38,7 +38,7 @@ In this project, the impact of a virtual private network (VPN) on IP address wil
 On your pc type in "free azure account". Click on the link which should say "Create Your Azure Free Account Today". In the webpage, click on the "start free" box. 
  
 <p>
-<img src="https://i.imgur.com/t9x6DOE.jpg" height="70%" width="70%"/> 
+<img src="https://imgur.com/hrlVkh2.jpg" height="70%" width="70%"/> 
 </p>
 <p>
 You will be prompted to sign into an existing Microsoft account or to create one (Note: creating an azure account does require the use of a credit card, but will not charge the card unless the free $200 of credit that is applied to the account is exceeded so be sure to have that ready to input.)
@@ -46,13 +46,13 @@ You will be prompted to sign into an existing Microsoft account or to create one
 <br />
 
 <p>
-<img src="https://i.imgur.com/HlPj27w.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/2r2x9vk.jpg" height="70%" width="70%"/>
 </p>
 <p>
 After creating your account, go to the Azure portal by typing in portal.azure.com in the search bar. Verify the creation of your new subscription by typing in "subscription" in the Microsoft azure search bar interface. 
 
 <p>
-<img src="https://i.imgur.com/VB0la1r.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/hXloN6k.jpg" height="70%" width="70%"/>
 </p>
 <p>  
 Open another web browser and type in the search bar "whatismyipaddress.com". Take a note of the IP address displayed. (Note: it's important not to share or disclose your public IP address with just anyone because it can expose your location, gain access to your network and devices, as well as make you vulnerable to hackers.
@@ -60,7 +60,7 @@ Open another web browser and type in the search bar "whatismyipaddress.com". Tak
 <br />
 
 <p>
-<img src="https://i.imgur.com/HlPj27w.jpeg" height="70%" width="70%"/>
+<img src="https://imgur.com/LKzSdDC.jpeg" height="70%" width="70%"/>
 </p>
 <p>
 Go back to the Microsoft Azure interface. Type in "virtual machine" in the Microsoft azure search bar and select the virtual machine icon. This step will require basically just inputting different names or titles and selecting different types of resources. 
@@ -81,7 +81,7 @@ Check the licensing agreement box then click "Review + Create". Once the process
 <br />
 
 <p>
-<img src="https://i.imgur.com/eJby71b.jpeg" height="70%" width="70%"/>
+<img src="https://imgur.com/H6mxDfP.jpeg" height="70%" width="70%"/>
 </p>
 <p>
 After the virtual machine is created, click on the virtual machine and copy the public IP address of the virtual machine in order to connect to it remotely. Depending on the operating system, open up either "Remote Desktop Connection" (Windows) or in this case, "Microsoft Remote Desktop" (MacOS), and click on "Add PC".
@@ -89,7 +89,7 @@ After the virtual machine is created, click on the virtual machine and copy the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/UA1EG9D.jpeg" height="70%" width="70%"/>
+<img src="https://imgur.com/EXx7nb2.png" height="70%" width="70%"/>
 </p>
 <p>
 Input the public IP address of the virtual machine in for the "PC Name" then click "add".
@@ -97,7 +97,7 @@ Input the public IP address of the virtual machine in for the "PC Name" then cli
 <br />
 
 <p>
-<img src="https://i.imgur.com/4lP0uQi.jpeg" height="70%" width="70%"/>  
+<img src="https://imgur.com/K3TcgcP.jpeg" height="70%" width="70%"/>  
 </p>
 <p>
 Click on the interface of the virtual machine and input the username and password that you used when creating the virtual machine.
@@ -105,7 +105,7 @@ Click on the interface of the virtual machine and input the username and passwor
 <br />
 
 <p>
-<img src="https://i.imgur.com/buyTxfz.jpeg" height="70%" width="70%"/>
+<img src="https://imgur.com/UEUFRyX.jpeg" height="70%" width="70%"/>
 </p>
 <p>
 After the connection to the virtual machine is completed, open up the web browser and type in whatismyipaddress.com and take note of the ip that is displayed. 
@@ -113,7 +113,7 @@ After the connection to the virtual machine is completed, open up the web browse
 <br />
 
 <p>
-<img src="https://i.imgur.com/RqkwUO1.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/HMrzsQx.jpg" height="70%" width="70%"/>
 </p>
 <p>
 Open up another tab, and type in protonvpn.com in the browser. Click on create free account and fill out the informatoin to create your account. 
@@ -121,7 +121,7 @@ Open up another tab, and type in protonvpn.com in the browser. Click on create f
 <br />
 
 <p>
-<img src="https://i.imgur.com/xRteo5z.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/bksha5p.jpg" height="70%" width="70%"/>
 </p>
 <p>
 After creating the Proton VPN account, download the proton vpn client that is necessary for your OS. 
@@ -129,7 +129,7 @@ After creating the Proton VPN account, download the proton vpn client that is ne
 <br />
 
 <p>
-<img src="https://i.imgur.com/D8xY7wX.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/p148AAS.jpg" height="70%" width="70%"/>
 </p>
 <p>
 Once the download is completed, open up the VPN client installer and select all the default options for the proton VPN setup wizard. 
@@ -137,7 +137,7 @@ Once the download is completed, open up the VPN client installer and select all 
 <br />
 
 <p>
-<img src="https://i.imgur.com/beXSGzh.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/G8v30oe.jpg" height="70%" width="70%"/>
 </p>
 <p>
 Once the installation is completed open up the proton VPN application and login with the same credentials used to create the account. 
@@ -145,21 +145,21 @@ Once the installation is completed open up the proton VPN application and login 
 <br />
 
 <p>
-<img src="https://i.imgur.com/oMr3V1Y.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/crsLB4o.jpg" height="70%" width="70%"/>
 </p>
 <p>
 When you get logged in there will likely only be a few options for VPN servers due to the limited selection of the free account.
 </p>
 
 <p>
-<img src="https://i.imgur.com/gh3MUZq.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/jA5zMPv.jpg" height="70%" width="70%"/>
 </p>
 <p>  
 Choose any one of the available VPN servers to connect to and allow the connection to build up. In this demonstration, Netherlands is selected. 
 </p>  
 
 <p>
-<img src="https://i.imgur.com/hAuGB20.jpg" height="70%" width="70%"/>
+<img src="https://imgur.com/9p80LP4.png" height="70%" width="70%"/>
 </p>
 <p>
 Once the connection is completed, refresh the dashboard interface to confirm an established connection, open up a web browser and go to "whatismyipaddress.com" and you'll see that the public ip address of the VM now displays region in which the VPN server is located in. 
